@@ -13,7 +13,6 @@ class Personal {
 		System.out.println("Mother's Name : Goh Pook Nee");
 		System.out.println("Sister's Name : Tan Xiao Xian");
 		System.out.println("Address : 71, Taman Sri Ampang, Jalan Kenanga 3, 05050 Alor Setar, Kedah");
-
 	}
 
 }
